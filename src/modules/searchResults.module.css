@@ -1,0 +1,33 @@
+.resultsContainer {
+    display: block;
+    width: 50%;
+    margin: auto;
+    /* background-color: red; */
+}
+
+h1 {
+    text-align: center;
+}
+
+ul {
+    padding-top: 20px;
+    margin-left: 5%;
+    list-style-type: none;
+    border-top: 1px dotted black;
+}
+
+li {
+    padding: 3px;
+    margin-top: 3px;
+}
+
+.addPlaylistBtn {
+    position: relative;
+    left: 90%;
+    top: -40px;
+    height: 45px;
+    width: 50px;
+    font-size: large;
+    border-radius: 130px;
+    text-align: center;
+}

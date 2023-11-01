@@ -1,5 +1,5 @@
 import React from 'react';
-import styles from '../modules/searchResults.module.css';
+import styles from './searchResults.module.css';
 
 const trackObject = [{
     songTitle: 'Smooth Criminal',

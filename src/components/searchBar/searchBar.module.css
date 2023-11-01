@@ -1,0 +1,28 @@
+.searchDiv {
+    display: block;
+    width: 50%;
+    margin: auto;
+}
+
+.searchForm {
+  margin-top: 75px;
+  display: flex;
+  flex-direction: column;
+}
+
+.searchInput {
+  font-size: 40px;
+  text-align: center;
+  border-radius: 30px;
+  height: 60px;
+  width: 100%;
+  margin-bottom: 16px;
+}
+
+.searchButton {
+    height: 40px;
+    margin: auto;
+    width: 20%;
+    border-radius: 25px;
+    font-size: large;
+}
